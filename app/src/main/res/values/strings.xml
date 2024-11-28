@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HCP-Camera-demo</string>
+    <string name="title_activity_camera">CameraActivity</string>
+    <string name="title_activity_preview_media">PreviewMediaActivity</string>
+</resources>
